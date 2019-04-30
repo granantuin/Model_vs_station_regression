@@ -13,7 +13,7 @@ Improving meteorological models accuracy with machine learning Regression
 
 [Linear regression](https://github.com/granantuin/Model_vs_station_regression/blob/master/Linear_dir.ipynb)
 
-[Randon Forest](https://github.com/granantuin/Model_vs_station_regression/blob/master/Randomforest_dir.ipynb)
+[Random Forest](https://github.com/granantuin/Model_vs_station_regression/blob/master/Randomforest_dir.ipynb)
 
 [Tensorflow](https://github.com/granantuin/Model_vs_station_regression/blob/master/tensorflow_dir.ipynb)
 
